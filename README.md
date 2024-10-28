@@ -23,7 +23,7 @@ To get started with the Marvel Heroes Image Slider, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/marvel-heroes-image-slider.git
+git clone https://github.com/anony756/marvel-heros/tree/main
 Navigate to the project directory:
 bash
 Copy code
